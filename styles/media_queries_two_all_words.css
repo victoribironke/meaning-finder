@@ -1,0 +1,41 @@
+@media screen and (max-width: 830px) {
+    .second {
+        width: 15%;
+    }
+}
+
+@media screen and (min-width: 830px) {
+    .letters, hr {
+        display: flex;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    #new {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .letters {
+        display: none;
+    }
+
+    #new {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 461px) {
+    .second {
+        width: 20%;
+    }
+}
+
+@media screen and (max-width: 356px) {
+    .second {
+        width: 50%;
+    }
+}

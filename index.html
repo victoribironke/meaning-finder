@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meaning Finder</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style_home.css') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='media_queries_home.css') }}" />
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='two.png') }}" />
+  <script src="https://smtpjs.com/v3/smtp.js"></script>
+  <script src="{{ url_for('static', filename='script_home.js') }}" defer></script>
+</head>
+
+<body>
+  <header>
+    MEANING FINDER
+  </header>
+
+  <section class="description">
+    <p>Get <span>meanings</span> to</p>
+    <p>different <span>abbreviations,</span></p>
+    <p>including <span>slangs</span> and <span>colloquial</span> words.</p>
+  </section>
+
+  <section class="description" id="new">
+    <p>Get <span>meanings</span> to</p>
+    <p>different <span>abbreviations,</span></p>
+    <p>including <span>slangs</span> and</p>
+    <p><span>colloquial</span> words.</p>
+  </section>
+
+  <section class="description" id="new1">
+    <p>Get <span>meanings</span> to</p>
+    <p>different</p>
+    <p><span>abbreviations,</span></p>
+    <p>including <span>slangs</span> and</p>
+    <p><span>colloquial</span> words.</p>
+  </section>
+
+  <section class="search">
+    <input id="search" type="text" placeholder="Search" />
+    <button id="button">Search</button>
+  </section>
+
+  <section class="meaning" id="meaning">
+
+  </section>
+
+  <section class="submit">
+    <p class="p">View all words <a href="/allwords">HERE</a></p>
+    <hr>
+    <p id="p">Have a new word or abbreviation?</p>
+    <p id="p1">Submit it here.</p>
+
+    <p id="p2">Have a new word</p>
+    <p id="p2">or abbreviation?</p>
+    <p id="p3">Submit it here.</p>
+
+    <input class="one" id="I" type="text" placeholder="Word, slang or abbreviation..." />
+    <textarea class="two" id="II" rows="3" maxlength="150" placeholder="Description..."></textarea>
+    <button class="second" id="second">Submit</button>
+  </section>
+</body>
+</html>
