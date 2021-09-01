@@ -5,7 +5,10 @@
 2NITE: Tonight
 4YEO: For Your Eyes Only
 A'ight: Alright
+A'int: Isn't / Is Not
 A/N: Author’s Note
+AAC: African Action Congress
+AACB: Assoiciation of African Central Banks
 AAF: As A Friend / As A Matter Of Fact
 AAK: Asleep At Keyboard / Alive And Kicking
 AAMOF: As A Matter Of Fact
@@ -19,32 +22,44 @@ AAYF: As Always, Your Friend
 Abbr: Abbreviation
 ABC: Already Been Chewed
 ABD: Already Been Done
+ABP: All Blended Party
+ABS: Analytical Balance Sheet
 ABT: About
 ABT2: About To
 ABTA: Good-Bye (Signoff)
 ABU: All Bugged Up
 AC: Acceptable Content
 ACC: Anyone Can Come
+ACD: Advanced Congress of Democrats
 ACD: Alt / Control / Delete
 ACDNT: Accident
+ACGSF: Agricultural Credit Guarantee Scheme Fund
 ACK: Acknowledge / Acknowledgment
 ACL: Access Control List
 ACPT: Accept (E-Mail, Government)
 ACQSTN: Acquisition (E-Mail, Government)
+ACSS: Agricultural Credit Support Scheme
+AD: Alliance for Democracy
 ADAD: Another Day, Another Dollar
 ADBB: All Done, Bye-Bye
+ADC: African Democratic Congress
 ADD: Address
 ADDY: Address
+ADF:  African Development Fund
 ADIH: Another Day In Hell
 ADIP: Another Day In Paradise
 ADMIN: Administrator
 ADMINR: Administrator (Government)
 ADN: Any Day Now
+ADP: Action Democratic Party
+ADPM: All Democratic Peoples Movement
+ADPs: Agricultural Development Programmes
 ADR: Address
 ADSL: Asymmetric Digital Subscriber Line
 AE: Area Effect (Online Gaming)
 AEAP: As Early As Possible
 AES: Advanced Encryption Standard
+AES: African Econometrics Society
 AF: Aggression Factor (Online Gaming) / April Fools / As Fuck
 AFAIAA: As Far As I Am Aware
 AFAIC: As Far As I Am Concerned
@@ -52,7 +67,9 @@ AFAIK: As Far As I Know
 AFAIR: As Far As I Recall (Remember)
 AFAIUI: As Far As I Understand It
 AFAP: As Far As Possible
+AFC: Africa Finance Corporation
 AFC: Away From Computer
+AfDB: African Development Bank
 AFFA: Angels Forever, Forever Angels
 AFJ: April Fool’s Joke
 AFK: Away From Keyboard
@@ -62,6 +79,7 @@ AGI: Agility (Online Gaming)
 AH: At Home
 AIAMU: And I Am A Money’s Uncle
 Aiit: Alright
+AIPs: Approvals-In-Principle
 AIR: As I Remember
 AISB: As It Should Be / As I Said Before
 AISI: As I See It
@@ -73,8 +91,12 @@ ALOL: Actually Laughing Out Loud
 AMA: Ask Me Anything (Reddit)
 AMAP: As Much As Possible
 AMBW: All My Best Wishes
+AMCP: African Monetary Cooperation Programme
 AML: All My Love
+AML: Anti-Money Laundering
 AMOF: As A Matter Of Fact
+ANN: Alliance for New Nigeria
+ANRP: Abundant Nigeria Renewal Party
 ANSI: American National Standards Institute
 AO: Anarchy Online (Online Gaming)
 AOC: Available On Cell
@@ -83,13 +105,19 @@ AOM: Age Of Majority / Age Of Mythology (Online Gaming)
 AOTA: All Of The Above
 AOYP: Angel On Your Pillow
 APAC: All Praise And Credit
+APC: All Progressives Congress
+APDA: Advanced Peoples Democratic Alliance
+APGA: All Progressive Grand Alliance
 API: Application Programming Interface
+APP: All People's Party
 APP: Application / Appreciate
+APRM: Africa Peer Review Mechanism
 Apt: Accurate
 AQAP: As Quick (Or Quiet) As Possible
 ARC: Archive (Compressed Files)
 ARG: Argument
 ARP: Address Resolution Protocol
+ARP: African Renaissance Party
 ASAP: As Soon As Possible
 ASIG: And So It Goes
 ASL: Age / Sex / Location
@@ -99,6 +127,9 @@ ATEOTD: At The End Of The Day
 ATM: At The Moment / Automated Teller Machine / Asynchronous Transfer Mode
 ATSITS: All The Stars In The Sky
 ATSL: Along The Same Line (Or Lines)
+AU: African Union
+AUC: Africa Union Commission
+AWAM: Aboki Wawa Arewa Movement
 AYBABTU: All Your Base Are Belong To Us (Online Gaming)
 AYDY: Are You Done Yet?
 AYEC: At Your Earliest Convenience
@@ -136,6 +167,7 @@ BAK: Back At Keyboard
 BAM: Below Average Mentality
 BAMF: Bad Ass Mother Fucker
 BAO: Be Aware Of
+BAs: Bankers Acceptances
 BAS: Big Ass Smile
 BASIC: Meaning Anything Mainstream
 BASOR: Breathing A Sigh Of Relief
@@ -160,6 +192,7 @@ BCOS: Because
 BCOY: Big Crush On You
 BD: Big Deal
 BDAY: Birthday
+BDCs: Bureaux de Change
 BDN: Big Darn Number
 BEG: Big Evil Grin
 BF: Best Friend / Boyfriend / Brain Fart
@@ -196,10 +229,12 @@ BN: Bad News
 BOB: Back Off Buddy
 BOE: Bind On Equip (Online Gaming)
 BOHICA: Bend Over Here It Comes Again
+BOI: Bank of Industry
 BOL: Best Of Luck
 BOLO: Be On The Look Out
 BOME: Based On My Experience
 BOOMS: Bored Out Of My Skull
+BOOT: Because Of Our Tomorrow Party
 BOP: Bind On Pickup (Online Gaming)
 BOSMKL: Bending Over Smacking My Knee Laughing
 BOT: Back On Topic / Be On That
@@ -215,8 +250,7 @@ BSF: But Seriously Folks
 BSOD: Blue Screen Of Death
 BSS: Basic Service Set (Wi-Fi)
 BSTS: Better Safe Than Sorry
-BT: Between Technologies
-BT: Bite This
+BT: Between Technologies / Bite This
 BTA: But Then Again
 BTAM: Be That As It May
 BTDT: Been There, Done That
@@ -227,6 +261,7 @@ BTYCL: Booty Call
 BUBU: Slang Term For The Most Beautiful Of Women
 Buff: Strong (Online Gaming)
 BURN: Used To Reference An Insult
+BWIs: Bretton Woods Institutions
 BWL: Bursting With Laughter
 BYOB: Bring Your Own Beer
 BYOC: Bring Your Own Computer
@@ -239,20 +274,36 @@ C/P: Cross Post
 C&G: Chuckle & Grin
 C&P: Copy and Paste
 C4N: Ciao For Now
+CABS: Cock and Bull Story
+CAC: Corporate Affairs Commision
 CAD: Control + Alt + Delete
 CAD: Short For Canada/Canadian
 CAM: Camera
+CAMA: Companies and Allied Matters Act
+CAMEL: Capital Adequacy, Asset Quality, Management, Earning and Liquidity
+CAR: Capital Adequacy Ratio
 CB: Coffee Break / Chat Break / Crazy Bitch
+CBN: Central Bank of Nigeria
+CBP: Capacity Building Programme
+CBs: Community Banks
 CD9: Code 9, Meaning “parents Are Around”
+CDMA: Code Division Multiple Access
+CEPR: Centre for Economic Policy Research
 CFS: Care For Secret?
+CFT: Combating Financing Terrorism
 CFY: Calling For You
+CG: Credit to Government
 CHAP: Challenge-Handshake Authentication Protocol (PPP)
 CHK: Check
 CIAO: Good-Bye (Italian Word)
+CIC: Currency in Circulation
 CICO: Coffee In, Coffee Out
 CID: Crying In Disgrace / Consider It Done
 CIDR: Classless Inter-Domain Routing
+CIFTS: Central Bank Inter-bank Funds Transfer System
 CIR: Committed Information Rate (Frame Relay)
+CIS: Commonwealth of Independent States
+CIT: Companies Income Tax
 CLAB: Crying Like A Baby
 CLD: Could
 CLI: Command Line Interpreter
@@ -266,11 +317,20 @@ CMON: Come On
 CMOS: Complementary Metal-Oxide Semiconductor
 CNP: Continued (In) Next Post
 COB: Close Of Business
+COB: Currency Outside Bank
+COBEC: Code of Business Ethics and Conduct
 COH: City Of Heroes (Online Gaming)
 Convo: Conversation
+COPAL: Cocoa Producers' Alliance
 COS: 'Cause
 CP: Chat Post
+CPC: Conscience People's Congress
 CPE: Customer Premises Equipment
+CPI: Consumer Price Index
+CPN: Communist Party of Nigeria
+CPP: Citizens Popular Party
+CPs: Commercial Papers
+CPS: Credit to the Private Sector
 CPU: Central Processing Unit
 CR8: Create
 CRAFT: Can’t Remember A *Freaking* Thing
@@ -281,13 +341,18 @@ CRC-16-CCITT: Cyclic Redundancy Check (X.25, HDLC)
 CRC: Cyclic Redundancy Check
 CRE8: Create
 CRIT: Critical Hit (Online Gaming)
+CRMS: Credit Risk Management System
+CRR: Cash Reserve Requirement
 CRS: Can’t Remember Shit
 CRT: Cathode Ray Tube
 CRZ: Crazy
+CSAR: Country Self Assessment Report
+CSCS: Central Securities Clearing System
 CSG: Chuckle, Snicker, Grin
 CSL: Can’t Stop Laughing
 CSMA/CA: Carrier Sense Multiple Access / Collision Avoidance
 CSMA/CD: Carrier Sense Multiple Access / Collision Detection
+CSOs: Civil Society Organisations
 CSS: Cascading Style-Sheet
 CSS: Counter-Strike Source (Online Gaming)
 CSU/DSU: Channel Service Unit / Data Service Unit
@@ -318,6 +383,7 @@ CYO: See You Online
 CYS: Check Your Settings
 CYT: See You Tomorrow
 D/L: Download
+DA: Democratic Alternative
 DAE: Does Anyone Else?
 DAFUQ: The Fuck?
 DAM: Database Activity Monitoring / Digital Asset Management
@@ -334,6 +400,7 @@ Deez Nutz: A Phrase Used In Online Chat To Annoy Or Frustrate Those Involved In 
 DEGT: Don’t Even Go There
 DERP: Stupid Or Silly
 DES: Data Encryption Standard
+DFIs: Development Finance Institutions
 DFL: Dead Fuck Last (Online Gaming)
 DGA: Don’t Go Anywhere
 DGAF: Don’t Give A Fuck
@@ -343,6 +410,7 @@ DGTG: Don’t Go There, Girlfriend
 DGYF: Dang, Girl You Fine
 DH: Dear (Or Darling) Husband
 DHCP: Dynamic Host Configuration Protocol
+DHs: Discount Houses
 DHU: Dinosaur Hugs (Used To Show Support)
 DIIK: Darned If I Know
 DIKU: Do I Know You?
@@ -356,10 +424,13 @@ DKDC: Don’t Know, Don’t Care
 DKP: Dragon Kill Points (Online Gaming)
 DL: Download / Down Low / Dead Link
 DL(T)BBB: Don’t Let (The) Bed Bugs Bite
+DLF: Direct Lending Facilities
 DM: Doesn’t Matter / Direct Message (Twitter / Instagram) / Do Me
 DM: Dungeon Master (Online Gaming)
+DMBs: Deposit Money Banks
 DMI: Desktop Management Interface
 DMNO: Dude Man No Offense
+DMO: Debit Management Office
 DMY: Don’t Mess Yourself
 DN: Down
 DNC: Do Not Compute (Meaning I Do Not Understand)
@@ -375,8 +446,10 @@ DQMOT: Don’t Quote Me On This
 DR: Didn’t Read
 DRAM: Dynamic Random-Access Memory
 DS: Dear (Or Darling) Son
+DS: Development Stock
 DSL: Digital Subscriber Line
 DSLAM: Digital Subscriber Line Access Multiplexer
+DSM: Democratic Socialist Movement
 DTE: Data Terminal Equipment
 DTR: Define The Relationship
 DTRT: Do The Right Thing
@@ -393,13 +466,21 @@ DYFM: Dude, You Fascinate Me
 DYJHIW: Don’t You Just Hate It When…?
 DYNWUTB: Do You Know What You Are Talking About?
 DYOR: Do Your Own Research (Common Stock Market Chat)
+e-FASS: Electronic Financial Analysis and Surveillance System
+e-Money: Electronic Money
 E1: Everyone
 E123: Easy As 1, 2, 3 / Easy As One, Two, Three
 E2EG: Ear To Ear Grin
 EAK: Eating At Keyboard
 EBKAC: Error Between Keyboard And Chair
+EBP: Electronic Budgeting and Planning
+ECA: Economic Commission for Africa
+ECOWAS: Economic Community of West African States
 ED: Erase Display
+EDCs: Enterpreneurship Development Centres
+EEG: Export Expansion Grant
 EF4T: Effort
+EFCC: Economic and Financial Crimes Commission
 EG: Evil Grin
 EHA: Ethernet Hardware Address (MAC address)
 EI: Eat It
@@ -413,6 +494,7 @@ EMA: E-Mail Address (Twitter)
 EMBAR: Embarassing
 EMFBI: Excuse Me For Butting In
 EMFJI: Excuse Me For Jumping In
+EMS: Enterprise Management and Security
 EMSG: E-Mail Message
 ENUF: Enough
 EOBD: End Of Business Day
@@ -423,12 +505,14 @@ EOM: End Of Message
 EOS: End Of Show
 EOT: End Of Text / End Of Thread / End Of Transmission
 EQ: Everquest (Online Gaming)
+ERP: Enterprise Resource Planning
 ERP: Erotic Role-Play (Online Gaming)
 ERS2: Eres Tz / Are You (Spanish Sms)
 ES: Erase Screen
 ESS: Extended Service Set (Wi-Fi Group)
 ETA: Edited To Add
 ETA: Estimated Time (Of) Arrival
+ETF: Education Tax Fund
 EVA: Ever
 EVO: Evolution
 EWG: Evil Wicked Grin (In Fun, Teasing)
@@ -439,6 +523,7 @@ EZ: Easy
 F2F: Face To Face
 F2P: Free To Play (Online Gaming)
 F4F: Follow For Follow (Instagram)
+FAAC: Federation Account Allocation Committee
 FAAK: Falling Asleep At Keyboard
 FAB: Fabulous
 FACK: Full Acknowledge
@@ -458,13 +543,18 @@ FC: Fingers Crossed
 FC: Fingers Crossed / Full Card (Online Gaming)
 FCC: Federal Communications Commission (US)
 FCOL: For Crying Out Loud
+FCs: Finance Companies
 FCS: Frame Check Sequence (Ethernet)
+FCT: Federal Capital Territory
 FDDI: Fiber Distributed Data Interface
+FDI: Foreign Direct Investment
 Feelsgoodman: A Social Meme That Means To Feel Positive.
 FEITCTAJ: Fuck 'em If They Can’t Take A Joke
 FF: Follow Friday (Twitter)
 FFA: Free For All (Online Gaming)
 FFS: For Fuck's Sake
+FGN: Federal Government of Nigeria
+FHAN: Finance House Assoiciation of Nigeria
 FICCL: Frankly I Couldn’t Care A Less
 FIF: Fuck I’m Funny
 FIIK: Fucked If I Know
@@ -473,16 +563,21 @@ FIL: Father In Law
 FIMH: Forever In My Heart
 Finna: Going To
 Finsta: A Second Instagram Account Where Someone Can Post Things That They’re Too Afraid To Post On Their Main Account.
+FIRS: Federal Inland Revenue Service
 FISH: First In, Still Here
 FITB: Fill In The Blank
+FITC: Financial Institutions Training Centre
 FKA: Formerly Known As
 FML: Fuck My Life
 FOAD: Fuck Off And Die
 FOAF: Friend Of A Friend
+FoB: Free on Board
 FOMC: Falling Off My Chair
 FOMCL: Falling Off My Chair Laughing
 FOMO: Fear Of Missing Out (Definition)
+FRIN: Forestry Research Institute of Nigeria
 FRT: For Real Though
+FSS 2020: Financial System Strategy 2020
 FTBOMH: From The Bottom Of My Heart
 FTFY: Fixed That For You
 FTL: For The Loss
@@ -504,6 +599,7 @@ FYE: Fire (Meaning Cool)
 FYEO: For Your Eyes Only
 FYI: For Your Information
 FYP: For You Page (TikTok)
+G-24: Group of Twenty-four (24) Developing Countries
 G+: Google+
 G2CU: Good To See You
 G2G: Got To Go
@@ -526,6 +622,7 @@ GBTW: Get Back To Work
 GBU: God Bless You
 GD: Good
 GD/R: Grinning, Ducking, And Running
+GDP: Gross Domestic Product
 GDR: Grinning, Ducking, And Running
 GEPOF: Gigabit Ethernet (Over) Plastic Optical Fiber
 GF: Girl Friend
@@ -569,12 +666,14 @@ GOI: Get Over It
 GOL: Giggling Out Loud
 GOMB: Get Off My Back
 GPOY: Gratuitous Picture Of Yourself
+GPP: Grassroot Patriotic Party
 GR&D: Grinning, Running And Ducking
 GR8: Great
 GRATZ: Congratulations
 GRL: Girl
 GRWG: Get Right With God
 GS: Good Shot / Good Split (Online Gaming)
+GSM: Global System of Mobile Communications
 GT: Good Try
 GTFO: Get The Fuck Out
 GTFOH: Get The Fuck Outta Here
@@ -634,43 +733,56 @@ IANA: Internet Assigned Number Authority
 IANAC: I Am Not A Crook
 IANAL: I Am Not A Lawyer
 IAO: I Am Out (Of Here)
+IAS: International Accounting Standard
 IB: I’m Back
+IBRD: International Bank for Reconstruction and Development
 IC: I See
 ICaaS: Integration Capability as a Service
 ICAM: I Couldn’t Agree More
 ICBW: It Could Be Worse
+ICCO: International Cocoa Organization
 ICEDI: I Can’t Even Discuss It
 ICFILWU: I Could Fall In Love With You
 ICMP: Internet Control Message Protocol
+ICO: International Coffee Organization
 ICYMI: In Case You Missed It (Twitter)
+IDA: International Development Assisstance
 IDBI: I Don’t Believe It
 IDC: I Don't Care
 IDF: Intermediate Distribution Frame
 IDGAF: I Don’t Give A Fuck
 IDK: I Don't Know
+IDMS: Integrated Document Management System
 IDS: Intrusion Detection System	Security
 IDTS: I Don’t Think So
 IDUNNO: I Don’t Know
+IEA: International Energy Agency
 IEEE: Institute for Electrical and Electronic Engineers
 IETF: Internet Engineering Task Force
+IFAD: International Fund for Agricultural Development
+IFT: Inter-bank Funds Transfer
 IFYP: I Feel Your Pain
 IG: Instagram
 IG2R: I Got To Run
 IGHT: I Got High Tonight
 IGN: I (I’ve) Got Nothing
 IGP: I Got To (Go) Pee
+IGR: Internally Generated Revenue
 IHNI: I Have No Idea
 IIIO: Intel Inside, Idiot Outside
+IIP: International Investment Position
 IIRC: If I Remember (Recall) Correctly
 IK: I Know
 IKR: I Know, Right?
 ILBL8: I’ll Be Late
+ILN: Interactive Learning Network
 ILU: I Love You
 ILUM: I Love You Man
 ILYSM: I Love You So Much
 IM: Instant Message
 IMAO: In My Arrogant Opinion
 IMAP: Internet Message Access Protocol
+IMF: International Monetary Fund
 IMHO: In My Humble Opinion
 IMNSHO:	In My Not So Honest (Humble) Opinion
 IMO: In My Opinion
@@ -686,6 +798,8 @@ INV: Invite
 IOMH: In Over My Head
 IOW: In Other Words
 IP: Internet Protocol
+IPOs: Initial Public Offers
+IPPs: Independent Power Plants
 IPS: Intrusion Prevention System
 IRL: In Real Life
 IRMC: I Rest My Case
@@ -694,8 +808,11 @@ ISDN: Integrated Services Digital Network
 ISLY: I Still Love You
 ISO: In Search Of
 ISP: Internet Service Provider
+ISPs: Internet Service Providers
+IT: Information Technology
 ITT: In This Thread
 ITU-T: International Telecommunications Union
+ITU: International Telecommunication Union
 ITYK: I Thought You Knew
 IUSS: If You Say So
 IWALU: I Will Always Love You
@@ -720,10 +837,12 @@ JJA: Just Joking Around
 JK: Just Kidding
 JLMK: Just Let Me Know
 JMO: Just My Opinion
+JMPP: Justice Must Prevail Party
 JP: Just Playing / Jackpot (Online Gaming, Bingo Games)
 JT: Just Teasing
 JTLYK: Just To Let You Know
 JV: Joint Venture
+JVC: Joint Venture Cash Calls
 JW: Just Wondering
 K: Okay
 K8T: Katie
@@ -750,10 +869,12 @@ KOS: Kid Over Shoulder / Kill On Sight (Online Gaming)
 KOTD: Kicks Of The Day (Instagram)
 KOTL: Kiss On The Lips
 KOW: Knock On Wood
+KP: KOWA Party
 KPC: Keeping Parents Clueless
 KS: Kill Then Steal (Online Gaming)
 KT: Katie
 KUTGW: Keep Up The Good Work
+KYC: Know Your Customer
 KYS: Kill Yourself
 L2G: Like To Go? / (Would) Love To Go
 L2K: Like To Come
@@ -795,12 +916,17 @@ LMNK: Leave My Name Out
 LMS: Like My Status (Facebook)
 LNT: Meaning Lost In Translation
 LOA: List Of Acronyms
+LOKAP: Lagos, Kano, Aba and Port-Harcourt
 LOL: Laughing Out Loud / Laugh Out Loud / Lots Of Love
 LOLH: Laughing Out Loud Hysterically
 LOLO: Lots Of Love
 LOTI: Laughing On The Inside
 LOTR: Lord Of The Rings (Online Gaming)
+LP: Labour Party
+LPFO: Low Pour Fuel Oil
 LQTM: Laughing Quietly To Myself
+LR: Liquidity Ratio
+LROs: Lead Research Organisations
 LSHMBH: Laugh So Hard My Belly Hurts
 LSV: Language, Sex And Violence
 LTD: Living The Dream
@@ -810,6 +936,7 @@ LTOD: Laptop Of Death
 LTS: Laughing To Self
 LULT: Love You Long Time
 LULZ: Joke, Or For Laughs
+LVIFT: Large Value Inter-banks Funds Transfer
 LVM: Left Voice Mail
 LWOS: Laughing Without Smiling
 LY: Love Ya (You)
@@ -829,14 +956,18 @@ MDF: Main Distribution Frame
 MDIAC: My Dad Is A Cop
 MEGO: My Eyes Glaze Over
 MEZ: Mesmerize (Online Gaming)
+MFBs: Microfinance Banks
 MFI: Mad For It
 MFW: My Face When… (Used With Photo Or Gif)
 MGB: May God Bless
 MGMT: Management
 MHOTY: My Hat (Is) Off To You
 MIB: Management Information Base (Snmp)
+MICR: Magnetic Ink Character Recognition
 MIRL: Me In Real Life / Meet In Real Life
 MKAY: Mmm, Okay
+MMDs: Money Market Dealers
+MMN: Masses Movement of Nigeria
 MMW: Mark My Words
 MNC: Mother Nature Calls
 MoCA: Multimedia over Coax Alliance
@@ -846,13 +977,20 @@ MoF: Male or Female
 MOMBOY: Mamma’s Boy
 MOO: My Own Opinion
 MOOS: Member Of The Opposite Sex
+MOP: Movement of the People Party
 MOS: Mother Over Shoulder
 MOSS: Member Of Same Sex
+MoU: Memorandum of Understanding
 MP: Mana Points (Online Gaming)
+MPC: Monetary Policy Committee
 MPLS: Multiprotocol Label Switching
+MPPP: Mega People Political Party
+MPR: Monetary Policy Rate
+MRR: Minimum Rediscount Rate
 MRT: Modified Retweet (Twitter)
 MRW: My Reaction When… (Used With Photo Or Gif)
 MSG: Message
+MTEF: Medium-Term Expenditure Framework
 MTF: More To Follow
 MTFBWU: May The Force Be With You
 MTFBWY: May The Force Be With You
@@ -863,14 +1001,22 @@ MUSM: Miss You So Much
 MWAH: Kiss (It Is The Sound Made When Kissing Through The Air)
 MYB: Mind Your Business 
 MYO(B): Mind Your Own (Business)
+MYTO: Multi-Year Tariff Order
 N/A: Not Applicable / Not Available
 N1: Nice One
 N2M: Nothing Too Much
 NAC: Network Access Control
+NACRDB: Nigerian Agricultural, Cooperative and Rural Development Bank
+NACS: Nigerian Automated Clearing System
 NADT: Not A Darn Thing
+NAFDAC: National Agency for Food, Drug Administration and Control
+NAICOM: National Insurance Commission
 NALOPKT: Not A Lot Of People Know That
 NaN: Not a Number
 NANA: Not Now, No Need
+NAOC: Nigeria Agip Oil Company
+NAPCON: National Petroleum Company of Nigeria
+NAPRI: National Animal Production Research Institute
 NAS: Network-Attached Storage
 NAT: Network Address Translation
 NAYL: In A While
@@ -878,21 +1024,41 @@ NAZ: Name, Address, ZIP
 NBD: No Big Deal
 NBFAB: No Bad For A Beginner (Online Gaming)
 NBMA: Non-Broadcast Multiple Access (e.g. Frame Relay ATM)
+NBS: National Bureau of Statistics
 NC: Nice Crib (Online Gaming)
 NC: No Comment
+NCS: Nigerian Custom Service
+ND: New Democrats
 ND: Nice Double (Online Gaming)
+NDC: Net Domestic Credit
+NDIC: Nigeria Deposit Insurance Corporation
+NDP: National Democratic Party
 NE: Any
 NE1: Anyone
+NEEDS: National Economic Empowerment and Development Strategy
+NEER: Nominal Effective Exchange Rate
+NEPAD: New Partnership for Africa's Development
+NERC: National Electricity Regulatory Commission
+NEXIM: Nigerian Export-Import Bank
+NFAs: Net Foreign Assets
+NFD: Nigeria For Democracy
 NFM: None For Me / Not For Me
 NFS: Need For Speed (Online Gaming) / Not For Sale
+NFTs: Non-Fungible Token
 NFW: No Fucking Way / Not For Work
+NGC: Nigerian Gas Company
 NGL: Not Gonna (Going To) Lie
+NGOs: Non-Governmental Organizations
+NGP: New Generations Party of Nigeria
 NH: Nice Hand (Online Gaming)
+NIBOR: Nigerian Inter-Bank Offer Rate
 NIC: Network Interface Card
+NICPAS: Nigerian Cheque Printers Accreditation Scheme
 NIFOC: Naked In Front Of Computer
 NIGI: Now I Get It
 NIMBY: Not In My Back Yard
 NIMBY: Not In My Backyard
+NIP: National Interest Party
 NIROK: Not In Reach Of Keyboard
 NLT: No Later Than
 NM: Never Mind
@@ -901,23 +1067,33 @@ NM: Nothing Much / Nice Meld (Online Gaming)
 NMH: Not Much Here
 NMJC: Nothing Much, Just Chilling
 NMU: Not Much, You?
+NNPC: Nigerian National Petroleum Corporation
+NNPP: New Nigeria Peoples Party
 NNTR: No Need To Reply
 NO1: No One
 NOOB: Meaning Someone Who Is Bad At (Online) Games / Newbie
 NOYB: None Of Your Business
 NP: No Problem
+NPC: National Population Commission
 NPC: Non-Playable Character (Online Gaming)
+NPPP: Nigeria Poor People Party
+NPSC: National Payments System Committee
 NQT: Newly Qualified Teacher
 NR: Nice Roll (Online Gaming)
+NRM: National Rescue Movement
 NRN: No Response (Reply) Necessary / Not Right Now
 NRZ: Non-Return-To-Zero
 NRZI: Non-Return To Zero Inverted
 NS: Nice Score (Online Gaming) / Nice Split (Online Gaming)
 NSA: No Strings Attached
+NSE: Nigerian Stock Exchange
 NSFL: Not Safe For Life
 NSFW: Not Safe For Work
 NSISR: Not Sure If Spelled Right
+NSPFS: National Special Programme for Food Security
+NSPM: Nigerian Security Printing and Mining
 NT: Nice Try
+NTBs: Nigerian Treasury Bills
 NTHING: Nothing
 NTIM: Not That It Matters
 NTS: Note To Self
@@ -925,6 +1101,7 @@ NVM: Never Mind
 NVR: Never
 NVRAM: Non-Volatile RAM
 NW: No Way
+NWG: National Working Group
 NWO: No Way Out
 O&O: Over and Out
 O4U: Only For You
@@ -932,8 +1109,11 @@ O7: To Salute (Verb)
 OA: Online Auctions
 OATUS: On A Totally Unrelated Subject
 OB: Oh Baby / Oh Brother
+OBB: Open Buy Back
 OBV: Obviously
+ODA: Overseas Development Assistance
 OFC: Of Course
+OFIs: Other Financial Institutions
 OG: Original Gangster
 OGIM: Oh God, It’s Monday
 OH: Overheard
@@ -950,6 +1130,7 @@ OMFG: Oh My Fucking Gosh
 OMG: Oh My Gosh
 OMGYG2BK: Oh My God, You Got To Be Kidding
 OMGYS: Oh My Gosh You Suck
+OMO: Open Market Operations
 OMW: On My Way
 ONL: Online
 OOC: Out Of Character
@@ -958,6 +1139,7 @@ OOMF: One Of My Followers
 OOTD: One Of These Days / Outfit Of The Day (Instagram)
 OOTO: Out Of The Office
 OP: On Phone / Original Post / Original Poster / Over Powered (Minecraft)
+OPEC: Organisation of Petroleum Exporting Countries
 ORLY: Oh Really?
 OS: Operating System
 OSI: Open System Interconnect (Joint Iso And Itu Standard)
@@ -965,6 +1147,7 @@ OSPF: Open Shortest Path First (Routing Protocol)
 OT:	Off Topic
 OT: Off Topic (Discussion Forums)
 OTB: Off To Bed
+OTC: Over-the-Counter
 OTD: On This Day
 OTFL: On The Floor Laughing
 OTL: Out To Lunch
@@ -976,7 +1159,9 @@ OTW: Off To Work
 OUI: Organization Unique Identifier
 OVA: Over
 OYO: On Your Own
+P&A: Purchase and Assumption
 P2P: Parent To Parent / Peer To Peer / Pay To Play (Online Gaming)
+P2P: Peer-to-Peer
 P911: Parent Alert
 PaaS: Platform as a Service
 PAL: Parents Are Listening
@@ -991,18 +1176,23 @@ PCM: Please Call Me
 PCM: Pulse-Code Modulation
 PDA: Public Display (Of) Affection
 PDH: Pretty Darn Happy
+PDP: People's Democratic Party
 PDQ: Pretty Darn Quick
 PDS: Please Don’t Shoot
 PDU: Protocol Data Unit (Such As Segment, Packet, Frame, etc.)
 PEBKAC: Problem Exists Between Keyboard And Chair
 PEEPS: People
+PENCOM: National Pension Commission
+PEP: Politically Exposed Person
 PFT: Pretty Fucking Tight
+PHCN: Power Holding Company of Nigeria
 PHD: Philosophiae Doctor
 PIC: Picture
 PIM: Personal Information Manager
 PIP: Peeing In Pants (Laughing Hard) / Python Package Installer (Python)
 PIR: Parent In Room
 PIR: Parents In Room
+PIR: Process Improvement and Redesign
 PISS: Put In Some Sugar
 PITA: Pain In The Ass
 PKMN: Pokemon (Online Gaming)
@@ -1016,6 +1206,8 @@ PLZTLME: Please Tell Me
 PM: Private Message
 PMFI: Pardon Me For Interrupting
 PMFJI: Pardon Me For Jumping In
+PMIs: Primary Mortgage Institutions
+PMS: Portfolio Management System
 PMSL: Pee Myself Laughing
 POAHF: Put On A Happy Face
 POIDH: Picture, Or It Didn’t Happen
@@ -1023,13 +1215,17 @@ POP: Point Of Presence
 POP3: Post Office Protocol, Version 3
 PORN: Pornography
 POS: Parent Over Shoulder / Point Of Service
+POS: Point of Sale
 POST: Power-On Self Test
 POT: Potion (Online Gaming)
 POTD: Photo Of The Day (Instagram)
 POTS: Plain Old Telephone Service
 POV: Point Of View
+PPA: Progressive Peoples Alliance
 PPL: People
+PPP: People Progressive Party
 PPP: Point-to-point Protocol
+PPT: Petroleum Profit Tax
 PPTP: Point-to-Point Tunneling Protocol
 PPU: Pending Pick-Up
 PRESH: Precious
@@ -1037,12 +1233,16 @@ PROBS: Probably
 PROGGY: Computer Program
 PROLLY: Probably
 PROP(S): Proper Respect / Proper Recognition
+PRP: People's Redemption Party
 PRT: Please Retweet (Twitter)
 PRW: People (Parents) Are Watching
 PSA: Public Service Announcement
+PSI: Policy Support Instrument
 PSOS: Parent Standing Over Shoulder
+PSP: People's Salvation Party
 PSP: PlayStation Portable
 PST: Please Send Tell (Online Gaming)
+PSV: Payments System Vision
 PTFO: Pass The Fuck Out
 PTIYPASI: Put That In Your Pipe And Smoke It
 PTL: Praise The Lord
@@ -1070,6 +1270,9 @@ RADIUS:	Remote Authentication Dial-In User Service
 RAM: Random Access Memory
 RARP: Reverse ARP
 RBAY: Right Back At You
+RBDAs: River Basins Development Authorities
+REC: Regional Economic Commission
+REER: Real Effective Exchange Rate
 RFC: Request For Comments
 RFN: Right Fucking Now
 RGR: Roger (I Agree, I Understand)
@@ -1089,15 +1292,18 @@ ROFLMAO: Rolling On The Floor, Laughing My Ass Off
 ROM: Read-Only Memory
 ROTFL: Rolling On The Floor Laughing
 ROTFLUTS: Rolling On The Floor Laughing Unable To Speak
+RP: Restoration Party of Nigeria
 RS: Runescape (Online Gaming)
 RSN: Real Soon Now
 RSTP: Rapid Spanning Tree Protocol
 RSVP: Repondez s'il vous plait (French: Please reply)
 RT: Roger That / Retweet (Twitter)
 RTBS: Reason To Be Single
+RTEP: Root and Tuber Expansion Project
 RTFM: Read The Fine Manual
 RTFM: Read The Fucking Manual
 RTFQ: Read The Fucking Question
+RTGS: Real Time Gross Settlement
 RTHX: Meaning “thanks For The Rt (Retweet)” (Twitter)
 RTMS: Read The Manual, Stupid
 RTNTN: Retention (Email, Government)
@@ -1126,12 +1332,16 @@ SAT: Sorry About That / Student Aptitude Test
 SB: Snap Back (Snapchat) / Should Be / Smiling Back
 SBIA: Standing Back In Amazement
 SBT: Sorry 'bout That
+SBUs: Strategic Business Units
 SC: Stay Cool
 SCNR: Sorry, Could Not Resist
 SD: Sweet Dreams
 SDLC: Synchronous Data Link Control
 SDMB: Sweet Dreams, My Baby
+SDMP: Social Democratic Mega Party
 SDN: Software Defined Networking
+SDP: Social Democratic Party
+SEC: Securities and Exchange Commission
 Senpai: Someone Older Than You orSomeone You Look Up To
 SEO: Search Engine Optimization
 SEP: Someone Else's Problem
@@ -1140,6 +1350,7 @@ SFAIK: So Far As I Know
 SFD: Start-Of-Frame Delimiter (Ethernet, HDLC, etc.)
 SFLR: Sorry, For Late Reply
 SFP: Small Form-Factor Pluggable
+SFU: Special Fraud Unit
 SH: Same Here
 SH^: Shut Up
 SHID: Slapping Head In Disgust
@@ -1152,6 +1363,7 @@ SIMYC: Sorry I Missed Your Call
 SIR: Strike It Rich
 SIS: Snickering In Silence / Sister
 SIT: Stay In Touch
+SITC: Standard International Trade Classification
 SITD: Still In The Dark
 SJW: Social Justice Warrior
 SK8: Skate
@@ -1163,6 +1375,8 @@ SLARP: Serial Line ARP (Address Resolution Protocol)
 Slay: To Succeed At Something
 SLIP: Serial Line Internet Protocol (obs.)
 SM: Social Media
+SMEDAN: Small and Medium Enterprises Development Agency
+SMEEIS: Small and Medium Enterprises Equity Investment Scheme
 SMH: Shaking My Head
 SMHID: Scratching My Head In Disbelief
 SMIM: Send Me An Instant Message
@@ -1178,12 +1392,15 @@ SOAB: Son Of A Bitch
 SOF: Start Of Frame
 SOL: Sooner Or Later
 SOMY: Sick Of Me Yet?
+SON: Standard Organisation of Nigeria
 SorG: Straight Or Gay?
 SOS: Help / Son Of Sam
 SOT: Short Of Time
 SOTMG: Short Of Time, Must Go
 SOWM: Someone With Me
+SPDC: Shell Petroleum Development Company
 SPK: Speak (Sms)
+SPN: Socialist Party of Nigeria
 SPOC: Single Point Of Contact
 SPST: Same Place, Same Time
 SPTO: Spoke To
@@ -1192,6 +1409,8 @@ SRAM: Static Random Access Memory
 SRSLY: Seriously
 SRY: Sorry
 SS: So Sorry
+SSA: Sub-Saharan Africa
+SSC: South-South Cooperation
 SSDD: Same Stuff, Different Day
 SSH: Secure Shell
 SSID: Service Set Identifier (Wi-Fi)
@@ -1238,12 +1457,14 @@ TC: Take Care
 TCB: Take Care Of Business
 TCOY: Take Care Of Yourself
 TCP/IP: Transmission Control Protocol/Internet Protocol
+TCs: Travellers' Cheques
 TD: Tower Defense (Online Gaming)
 TD2M: Talk Dirty To Me
 TDM: Time-Division Multiplexing
 TDTM: Talk Dirty To Me
 Tea: Gossip
 TFF: Too Fucking Funny
+TFM: Trust Fund Model
 TFS: Thanks For Sharing
 TFTF: Thanks For The Follow (Twitter)
 TFTI: Thanks For The Invitation
@@ -1258,8 +1479,8 @@ THT: Think Happy Thoughts
 THX: Thanks
 TIA: Telecommunications Industry Alliance
 TIA: Thanks In Advance
-TIA: Thanks In Advance
 TIAD: Tomorrow Is Another Day
+TIB: Temenos Internet Banking
 TIC: Tongue-In-Cheek
 TIL: Today I Learned
 TILIS: Tell It Like It Is
@@ -1311,6 +1532,7 @@ TYSM: Thank You So Much
 TYT: Take Your Time
 TYVM: Thank You Very Much
 U-L: You Will
+UAT: User Acceptance Test
 UCMU: You Crack Me Up
 UDM: U (You) Da (The) Man
 UDP: User Datagram Protocol
@@ -1326,7 +1548,11 @@ UN4TUN8: Unfortunate
 UNA: Use No Acronyms
 UNBLEFBLE: Unbelievable
 UNCRTN: Uncertain
+UNECA: United Nations Economic Commission for Africa
+UNIDO: United Nations Industrial Development Organisation
+UNPP: United Nigeria People's Party
 UOK: (Are) You Ok?
+UPP: United Progressive Party
 UR: You Are / You’re
 UR: Your / You are
 UR2YS4ME: You Are Too Wise For Me
@@ -1381,9 +1607,14 @@ W/O: Without
 W3: Www (Web Address)
 W3C: World Wide Web Consortium
 W8:	Wait
+WACB: West African Central Bank
+WAEC: West African Examination Council
 WAH: Working At Home
+WAIFEM: West African Institute for Financial and Economic Management
 WAJ: What A Jerk
 WAM: Wait A Minute
+WAMA: West African Monetary Agency
+WAMZ: West African Monetary Zone
 WAN: Wide-Area Network
 WAN2: Want To? (Sms)
 WAN2TLK: Want To Talk
@@ -1394,12 +1625,14 @@ WAT: What
 WAWA: Where Are We At?
 WAYF: Where Are You From?
 WB:	Welcome Back
+WB: The World Bank
 WBS: Write Back Soon
 WBU: What About You?
 WC: Welcome
 WC: Who Cares
 WCA: Who Cares Anyway
 WDALYIC: Who Died And Left You In Charge
+WDAS: Wholesale Dutch Auction System
 WDYK: What Do You Know?
 WDYT: What Do You Think?
 WE: Whatever
@@ -1479,6 +1712,7 @@ YCHT: You Can Have Them
 YCLIU: You Can Look It Up
 YCMU: You Crack Me Up
 YD: Yesterday
+YDP: Young Democratic Party
 Yeet: To Throw Something (Verb)
 YG: Young Gentleman
 YGG: You Go Girl
@@ -1495,6 +1729,8 @@ YMMD: You Made My Day
 YMMV: Your Mileage May Vary
 YNK: You Never Know
 YOLO: You Only Live Once
+YP: Youth Party
+YPP: Young Progressive Party / YouTube Partner Program
 YRYOCC: You’re Running Your Own Cuckoo Clock
 YSIC: Your Sister In Christ
 YSYD: Yeah Sure You Do
@@ -1506,3 +1742,4 @@ YW: You’re Welcome
 YWHNB: Yes, We Have No Bananas
 YWSYLS: You Win Some, You Lose Some
 YYSSW: Yeah, Yeah, Sure, Sure, Whatever
+ZLP: Zenith Labour Party
